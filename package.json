@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-georgebonnr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "eslint config for side projects, cloned from the good folks at rackt.",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,8 @@
   },
   "author": "George Bonner <georgebonnr@gmail.com> (http://georgebonnr.com)",
   "keywords": [
-    "eslint", "eslintconfig"
+    "eslint",
+    "eslintconfig"
   ],
   "license": "MIT",
   "bugs": {
