@@ -1,19 +1,17 @@
-# eslint-config-rackt
+# eslint-config-georgebonnr
 
-[Shared ESLint config](http://eslint.org/docs/developer-guide/shareable-configs) for [rackt](https://github.com/rackt) JavaScript code. By adopting a common ESLint config, we hope to encourage consistent style and quality across all of our repos.
-
-The majority of ESLint config should be defined here rather than each project's own `.eslintrc`. If a project's maintainers desire to override some config, they can do it in their own `.eslintrc`.
+eslint config for side projects, cloned from the good folks at rackt.
 
 ## Usage
 
 ```bs
-npm install --save-dev eslint-config-rackt
+npm install --save-dev eslint-config-georgebonnr
 ```
 
-Then, extend `rackt` in your `.eslintrc`:
+Then, extend `georgebonnr` in your `.eslintrc`:
 
 ```json
 {
-    "extends": "rackt"
+    "extends": "georgbonnr"
 }
 ```
