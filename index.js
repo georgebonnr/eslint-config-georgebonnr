@@ -24,6 +24,12 @@ module.exports = {
     "semi": [ 2, "never" ],
     "strict": 0,
     "space-before-blocks": [ 2, "always" ],
-    "space-before-function-paren": [ 2, { "anonymous": "always", "named": "never" } ]
-  }
+    "space-before-function-paren": [ 2, { "anonymous": "always", "named": "never" } ],
+    "react/jsx-uses-react": 1,
+    "react/jsx-no-undef": 2,
+    "react/wrap-multilines": 2
+  },
+  "plugins": [
+    "react"
+  ]
 }
