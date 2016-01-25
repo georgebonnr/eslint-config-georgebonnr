@@ -1,18 +1,19 @@
 {
-  "name": "eslint-config-rackt",
-  "version": "1.1.1",
-  "description": "Shareable eslint config for rackt repos",
+  "name": "eslint-config-georgebonnr",
+  "version": "1.0.0",
+  "description": "eslint config for side projects, cloned from the good folks at rackt.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rackt/eslint-config-rackt.git"
+    "url": "git+https://github.com/georgebonnr/eslint-config-georgebonnr.git"
   },
-  "author": [
-    "Patrick Williams"
+  "author": "George Bonner <georgebonnr@gmail.com> (http://georgebonnr.com)",
+  "keywords": [
+    "eslint", "eslintconfig"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rackt/eslint-config-rackt/issues"
+    "url": "https://github.com/georgebonnr/eslint-config-georgebonnr/issues"
   },
-  "homepage": "https://github.com/rackt/eslint-config-rackt"
+  "homepage": "https://github.com/georgebonnr/eslint-config-georgebonnr"
 }
